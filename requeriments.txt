@@ -1,1 +1,1 @@
-python en todas sus versiones de requeriments........................................................... hola amigos denle una esrella
+requests
